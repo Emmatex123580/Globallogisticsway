@@ -1,0 +1,416 @@
+[29-Jan-2023 09:13:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2023 09:13:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2023 09:13:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2023 09:13:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2023 09:13:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2023 09:13:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Jan-2023 09:14:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Jan-2023 09:15:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[20-Feb-2023 11:36:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[20-Feb-2023 11:36:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[20-Feb-2023 11:36:21 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[20-Feb-2023 11:36:21 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[20-Feb-2023 11:36:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[20-Feb-2023 11:36:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Feb-2023 11:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Feb-2023 11:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[24-Feb-2023 07:49:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Feb-2023 07:49:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Feb-2023 07:49:02 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Feb-2023 07:49:02 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Feb-2023 07:49:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Feb-2023 07:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Feb-2023 07:49:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Feb-2023 07:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[26-Mar-2023 05:14:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[26-Mar-2023 05:14:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[26-Mar-2023 05:14:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[26-Mar-2023 05:14:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[26-Mar-2023 05:14:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[26-Mar-2023 05:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[26-Mar-2023 05:14:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[26-Mar-2023 05:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[24-Apr-2023 18:37:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2023 18:37:12 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2023 18:37:12 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2023 18:37:12 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2023 18:37:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2023 18:37:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Apr-2023 18:37:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Apr-2023 18:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[17-May-2023 15:53:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[17-May-2023 15:53:07 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[17-May-2023 15:53:07 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[17-May-2023 15:53:07 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[17-May-2023 15:53:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[17-May-2023 15:53:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-May-2023 15:53:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[17-May-2023 15:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[30-May-2023 08:56:24 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[30-May-2023 08:56:24 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[30-May-2023 08:56:24 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[30-May-2023 08:56:24 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[30-May-2023 08:56:24 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[30-May-2023 08:56:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-May-2023 08:56:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[30-May-2023 08:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[07-Jun-2023 11:37:14 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jun-2023 11:37:14 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jun-2023 11:37:14 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jun-2023 11:37:14 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jun-2023 11:37:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[07-Jun-2023 11:37:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-Jun-2023 11:37:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Jun-2023 11:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[13-Jun-2023 10:43:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 10:43:55 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 10:43:55 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 10:43:55 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 10:43:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2023 10:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Jun-2023 10:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Jun-2023 10:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[25-Jun-2023 17:14:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jun-2023 17:14:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jun-2023 17:14:20 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jun-2023 17:14:20 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jun-2023 17:14:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[25-Jun-2023 17:14:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Jun-2023 17:14:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Jun-2023 17:14:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[02-Jul-2023 11:01:01 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 11:01:01 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 11:01:01 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 11:01:01 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 11:01:01 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[02-Jul-2023 11:01:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[02-Jul-2023 11:01:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[02-Jul-2023 11:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[03-Jul-2023 01:24:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 01:24:45 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 01:24:45 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 01:24:45 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 01:24:45 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 01:24:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Jul-2023 01:24:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Jul-2023 01:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[03-Jul-2023 21:13:14 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 21:13:14 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 21:13:14 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 21:13:14 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 21:13:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2023 21:13:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Jul-2023 21:13:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Jul-2023 21:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[05-Jul-2023 16:19:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 16:19:58 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 16:19:58 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 16:19:58 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 16:19:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jul-2023 16:20:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[05-Jul-2023 16:20:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[05-Jul-2023 16:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[08-Jul-2023 00:12:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 00:12:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 00:12:53 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 00:12:53 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 00:12:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 00:12:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Jul-2023 00:13:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Jul-2023 00:14:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[08-Jul-2023 09:44:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 09:44:31 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 09:44:31 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 09:44:31 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 09:44:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2023 09:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Jul-2023 09:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Jul-2023 09:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[09-Jul-2023 01:06:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 01:06:09 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 01:06:09 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 01:06:09 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 01:06:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2023 01:06:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-Jul-2023 01:06:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[09-Jul-2023 01:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[12-Jul-2023 21:33:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 21:33:47 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 21:33:47 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 21:33:47 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 21:33:47 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Jul-2023 21:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Jul-2023 21:33:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Jul-2023 21:34:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[15-Jul-2023 01:28:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 01:28:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 01:28:37 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 01:28:37 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 01:28:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[15-Jul-2023 01:28:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Jul-2023 01:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[19-Jul-2023 22:08:50 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jul-2023 22:08:51 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jul-2023 22:08:51 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jul-2023 22:08:51 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jul-2023 22:08:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jul-2023 22:08:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[19-Jul-2023 22:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[19-Jul-2023 22:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[28-Jul-2023 15:13:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 15:13:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 15:13:03 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 15:13:03 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 15:13:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[28-Jul-2023 15:13:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Jul-2023 15:13:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Jul-2023 15:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[12-Aug-2023 02:23:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 02:23:16 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 02:23:16 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 02:23:16 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 02:23:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2023 02:23:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[12-Aug-2023 02:23:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Aug-2023 02:24:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[14-Aug-2023 02:08:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2023 02:08:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2023 02:08:20 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2023 02:08:20 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2023 02:08:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2023 02:08:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Aug-2023 02:08:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Aug-2023 02:09:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/globallogi5/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/navigation-fallback.php on line 53
+[14-Aug-2023 02:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[28-Aug-2023 02:05:09 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[28-Aug-2023 02:05:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[28-Aug-2023 02:05:10 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Aug-2023 02:05:10 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Aug-2023 02:05:13 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home2/globallogi5/public_html/wp-includes/navigation-fallback.php on line 53
+[28-Aug-2023 02:05:15 UTC] PHP Fatal error:  Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[29-Aug-2023 02:47:21 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[29-Aug-2023 02:47:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[29-Aug-2023 02:47:24 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Aug-2023 02:47:26 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Aug-2023 02:47:38 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home2/globallogi5/public_html/wp-includes/navigation-fallback.php on line 53
+[29-Aug-2023 02:47:41 UTC] PHP Fatal error:  Call to undefined function get_the_block_template_html() in /home2/globallogi5/public_html/wp-includes/template-canvas.php on line 12
+[16-Nov-2023 20:34:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2023 20:34:49 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2023 20:34:49 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2023 20:34:49 UTC] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2023 20:34:49 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear:/home2/globallogi5/php') in /home2/globallogi5/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2023 20:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-scripts.php on line 18
+[16-Nov-2023 20:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/globallogi5/public_html/wp-includes/class-wp-styles.php on line 18
